@@ -1,0 +1,15 @@
+h1 {text-align: center;}
+
+body {
+  text-align: center;
+  background: url("http://www.lucabacchetti.com/wordpress/wp-content/uploads/2014/11/banner1.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 20px;
+}
